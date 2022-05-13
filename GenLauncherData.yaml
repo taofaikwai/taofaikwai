@@ -1,0 +1,14 @@
+ModificationType: Mod
+Name: Continue
+Version: 3.0
+SimpleDownloadLink: ''
+UIImageSourceLink: https://imgur.com/k58urlZ
+DiscordLink: https://discord.gg/NSAtW49W
+ModDBLink: https://www.moddb.com/mods/generalszero-hour-continue
+NewsLink: https://www.moddb.com/mods/generalszero-hour-continue/news/generals-continue-v30
+DependenceName: ''
+S3HostLink: gen.insave.ovh:9000
+S3BucketName: gencon
+S3FolderName: gencon
+S3HostPublicKey: ''
+S3HostSecretKey: ''
