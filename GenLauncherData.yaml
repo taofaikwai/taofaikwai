@@ -1,11 +1,11 @@
-ModificationType: Mod
-Name: C&C Generals Continue
-Version: 3.0
+ModificationType: Patch
+Name: 'Generals Continue '
+Version: 3.01
 SimpleDownloadLink: ''
-UIImageSourceLink: https://i.imgur.com/k58urlZ.jpeg
-DiscordLink: https://discord.gg/8rbKcvnZx9
+UIImageSourceLink: https://imgur.com/k58urlZ
+DiscordLink: https://discord.gg/NSAtW49W
 ModDBLink: https://www.moddb.com/mods/generalszero-hour-continue
-NewsLink: https://www.moddb.com/mods/generalszero-hour-continue/news/generals-continue-v30
+NewsLink: https://www.moddb.com/mods/generalszero-hour-continue/news/generals-continue-v301-updata
 DependenceName: ''
 S3HostLink: gen.insave.ovh:9000
 S3BucketName: gencon
